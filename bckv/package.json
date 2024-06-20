@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon server.js",
-    "build": "node -r dotenv/config --experimental-json-modules server.js"
+    "build": "node -r dotenv/config --experimental-json-modules index.js"
   },
   "keywords": [],
   "author": "safal",
